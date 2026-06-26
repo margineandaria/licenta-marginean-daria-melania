@@ -11,12 +11,12 @@ return new class extends Migration
      */
     public function up(): void {
         Schema::create('budgets', function (Blueprint $table) {
-            $table->id(); // BudgetID
+            $table->id(); 
             $table->foreignId('family_id')->constrained('families')->onDelete('cascade');
             $table->foreignId('category_id')->constrained('categories');
             $table->foreignId('user_id_responsible')->constrained('users');
             $table->decimal('budget_amount', 12, 2);
-            $table->string('month_year'); // ex: "2024-06"
+            $table->string('month_year');
             $table->timestamps();
         });
     }

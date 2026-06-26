@@ -9,7 +9,6 @@ return new class extends Migration
     public function up(): void
     {
         Schema::table('users', function (Blueprint $table) {
-            // Adăugăm datele demografice și financiare necesare pentru estimări
             $table->string('education_level')->nullable()->after('role'); 
             $table->string('work_domain')->nullable()->after('education_level');
             $table->string('geographic_zone')->nullable()->after('work_domain');

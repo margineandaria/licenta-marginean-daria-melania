@@ -11,8 +11,7 @@ return new class extends Migration
      */
     public function up(): void {
     Schema::create('users', function (Blueprint $table) {
-        $table->id(); // UserID
-        // Cheia externă către familii
+        $table->id();
         $table->foreignId('family_id')->constrained('families')->onDelete('cascade');
         $table->string('name');
         $table->string('email')->unique();

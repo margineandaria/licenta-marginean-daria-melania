@@ -12,7 +12,6 @@ return new class extends Migration
     public function up(): void
     {
         Schema::table('transactions', function (Blueprint $table) {
-            // Adăugăm DOAR cheile externe peste coloanele care deja există
             $table->foreign('family_id')->references('id')->on('families')->onDelete('cascade');
             $table->foreign('user_id_allocated')->references('id')->on('users')->onDelete('cascade');
             $table->foreign('category_id_ai')->references('id')->on('categories')->onDelete('set null');
@@ -26,7 +25,6 @@ return new class extends Migration
     public function down(): void
     {
         Schema::table('transactions', function (Blueprint $table) {
-            // În caz de rollback, ștergem doar legăturile
             $table->dropForeign(['family_id']);
             $table->dropForeign(['user_id_allocated']);
             $table->dropForeign(['category_id_ai']);

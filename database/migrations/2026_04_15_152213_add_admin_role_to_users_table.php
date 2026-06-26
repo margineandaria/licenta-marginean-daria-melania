@@ -9,7 +9,6 @@ return new class extends Migration
     public function up(): void
     {
         Schema::table('users', function (Blueprint $table) {
-            // Modificăm enum-ul să accepte și 'admin'
             $table->enum('role', ['parent', 'child', 'admin'])->default('parent')->change();
         });
     }

@@ -12,14 +12,14 @@ return new class extends Migration
     public function up()
     {
         Schema::table('transactions', function (Blueprint $table) {
-            $table->dropColumn('is_anomaly'); // Șterge coloana
+            $table->dropColumn('is_anomaly'); 
         });
     }
 
     public function down()
     {
         Schema::table('transactions', function (Blueprint $table) {
-            $table->boolean('is_anomaly')->default(false); // O pune la loc dacă dai rollback (pune tipul corect dacă era altceva)
+            $table->boolean('is_anomaly')->default(false); 
         });
     }
 };
