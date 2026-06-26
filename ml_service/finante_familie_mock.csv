@@ -1,0 +1,501 @@
+venit_lunar,cheltuieli_alimente,cheltuieli_utilitati,cheltuieli_divertisment,rate_bancare,numar_membri,categorie_varsta,nivel_educatie,statut_locuinta,domeniu_activitate,zona_geografica,luna_anului,economii_lunare
+6304,2337,1006,758,856,3,20-30,Liceu,Proprietar,Marketing / Media / PR,Urban,4,1479
+11426,1532,832,758,0,2,20-30,Liceu,Chirie,IT & Software,Urban,9,5869
+4381,2370,722,304,0,3,30-45,Liceu,Proprietar,Servicii Diverse,Urban,5,784
+6011,1364,650,1661,1287,2,45+,Facultate,Chirie,Administratie Publica,Rural,8,-847
+5566,3625,1077,573,0,5,20-30,Liceu,Chirie,Marketing / Media / PR,Rural,2,-2022
+6915,1782,688,1494,0,3,45+,Facultate,Chirie,Marketing / Media / PR,Urban,12,714
+4170,2940,855,605,0,4,20-30,Facultate,Proprietar,Servicii Diverse,Rural,4,-259
+4181,2640,852,293,0,4,45+,Liceu,Proprietar,Educatie,Rural,7,252
+6181,3415,1090,211,969,5,30-45,Liceu,Chirie,Marketing / Media / PR,Rural,7,-2130
+5858,1203,1038,469,0,3,30-45,Master,Chirie,Servicii Diverse,Rural,7,417
+8416,1300,509,314,0,2,30-45,Facultate,Chirie,Marketing / Media / PR,Urban,3,4062
+7181,1584,564,1506,2446,2,45+,Master,Chirie,Horeca / Turism,Urban,8,-786
+7093,2229,882,1530,0,3,45+,Master,Chirie,Transport / Logistica,Rural,12,658
+4910,1536,553,272,0,3,45+,Liceu,Chirie,Horeca / Turism,Rural,9,643
+6978,2310,1028,1874,0,3,45+,Liceu,Proprietar,Administratie Publica,Urban,8,1950
+5751,3080,860,678,721,5,20-30,Facultate,Chirie,Servicii Diverse,Urban,11,-2626
+13171,1413,766,387,0,3,20-30,Facultate,Chirie,IT & Software,Rural,4,8371
+8350,970,708,697,0,2,45+,Master,Chirie,Constructii / Imobiliare,Urban,9,3414
+7958,3096,1001,1946,0,4,30-45,Facultate,Proprietar,Educatie,Urban,8,1809
+5401,1288,757,743,0,2,45+,Liceu,Chirie,Vanzari / Retail,Urban,6,-145
+7588,1260,867,283,2217,3,30-45,Liceu,Chirie,Educatie,Urban,2,544
+5820,2408,667,1475,0,4,45+,Facultate,Chirie,Transport / Logistica,Rural,12,-80
+8971,1740,1050,450,0,4,45+,Master,Chirie,Productie / Inginerie,Urban,4,4056
+7346,1872,735,318,938,4,45+,Master,Chirie,Transport / Logistica,Rural,9,709
+7870,2112,1063,252,878,4,20-30,Facultate,Proprietar,Vanzari / Retail,Urban,11,3698
+5565,2728,961,637,0,4,20-30,Liceu,Proprietar,Vanzari / Retail,Urban,11,1053
+9282,1263,707,573,0,3,30-45,Master,Chirie,Sanatate / Medical,Urban,10,4764
+6239,1449,1049,1783,0,3,45+,Liceu,Proprietar,Marketing / Media / PR,Rural,12,1841
+4866,838,939,681,0,2,30-45,Facultate,Chirie,Agricultura,Rural,3,24
+5914,2175,1145,485,1938,5,45+,Liceu,Chirie,Vanzari / Retail,Urban,4,-2263
+9349,1605,569,311,0,3,20-30,Master,Chirie,Marketing / Media / PR,Rural,5,4678
+12753,1600,866,751,0,4,45+,Master,Proprietar,Finante / Banci,Urban,4,9677
+9343,2964,809,534,2148,4,45+,Master,Proprietar,Sanatate / Medical,Rural,2,2890
+7447,1821,830,200,0,3,45+,Liceu,Proprietar,Transport / Logistica,Urban,7,4511
+13969,2328,636,1076,2611,3,30-45,Master,Proprietar,Finante / Banci,Rural,8,7361
+5691,1286,812,274,0,2,20-30,Liceu,Chirie,Sanatate / Medical,Rural,3,819
+4022,2352,990,309,0,3,30-45,Master,Proprietar,Horeca / Turism,Rural,4,251
+5869,936,910,675,2675,2,45+,Master,Chirie,Servicii Diverse,Rural,4,-2022
+5143,2660,1034,1813,1635,5,20-30,Facultate,Proprietar,Servicii Diverse,Rural,12,-1803
+5016,2284,763,1335,0,4,20-30,Liceu,Proprietar,Marketing / Media / PR,Rural,12,570
+14800,3190,862,263,0,5,20-30,Master,Chirie,Finante / Banci,Urban,7,8486
+4097,2456,875,759,0,4,20-30,Liceu,Proprietar,Agricultura,Rural,6,206
+4956,3080,684,678,1022,4,20-30,Facultate,Proprietar,Horeca / Turism,Rural,7,-262
+11679,1275,683,588,0,3,45+,Facultate,Chirie,IT & Software,Urban,7,6736
+5913,3380,676,558,1418,5,30-45,Facultate,Proprietar,Administratie Publica,Rural,2,-349
+5624,1044,564,684,968,2,20-30,Master,Chirie,Servicii Diverse,Urban,4,594
+3970,1118,555,792,0,2,45+,Facultate,Chirie,Agricultura,Rural,10,-1090
+11887,2250,857,1638,0,3,45+,Master,Chirie,Finante / Banci,Urban,12,5176
+11492,2600,654,643,1983,4,45+,Master,Chirie,Finante / Banci,Rural,11,3027
+9831,1776,742,661,0,4,30-45,Liceu,Proprietar,Finante / Banci,Rural,7,6935
+8741,2032,781,1312,1645,4,20-30,Master,Proprietar,Productie / Inginerie,Rural,8,2953
+7638,3940,773,1848,0,5,20-30,Liceu,Chirie,Transport / Logistica,Urban,12,-663
+6071,2684,776,635,0,4,30-45,Liceu,Chirie,Vanzari / Retail,Rural,11,-80
+5336,2340,824,1085,1386,3,20-30,Facultate,Chirie,Vanzari / Retail,Rural,12,-2807
+5478,1473,704,214,0,3,20-30,Master,Chirie,Agricultura,Rural,5,772
+12752,1090,740,1641,0,2,45+,Master,Chirie,IT & Software,Rural,8,7634
+6732,1376,985,511,0,2,30-45,Liceu,Proprietar,Constructii / Imobiliare,Urban,2,3681
+8588,2224,891,1385,0,4,30-45,Facultate,Proprietar,Transport / Logistica,Urban,8,4004
+6146,1218,730,681,0,2,20-30,Master,Chirie,Vanzari / Retail,Urban,3,1538
+5715,2952,1011,402,0,4,45+,Facultate,Chirie,Agricultura,Rural,4,-1335
+5977,2349,972,782,0,3,20-30,Liceu,Chirie,Marketing / Media / PR,Rural,1,299
+5093,2205,956,240,2269,5,45+,Facultate,Proprietar,Agricultura,Rural,9,-547
+9763,840,890,379,2427,2,20-30,Facultate,Chirie,Productie / Inginerie,Urban,11,2545
+5354,2256,943,1685,0,4,20-30,Liceu,Proprietar,Vanzari / Retail,Rural,8,591
+3660,2805,779,531,0,5,45+,Facultate,Proprietar,Agricultura,Rural,1,-229
+13662,3156,626,408,1593,4,20-30,Master,Proprietar,IT & Software,Rural,4,7713
+5084,2046,557,765,0,3,20-30,Facultate,Chirie,Vanzari / Retail,Rural,11,-428
+9177,2564,724,667,0,4,45+,Liceu,Proprietar,Constructii / Imobiliare,Urban,5,5314
+7079,2144,1020,202,1658,4,30-45,Master,Chirie,Horeca / Turism,Urban,7,237
+7791,3160,878,1552,0,4,45+,Facultate,Proprietar,Marketing / Media / PR,Urban,8,2145
+9442,3695,1055,355,0,5,20-30,Facultate,Proprietar,Productie / Inginerie,Urban,6,4166
+6541,2365,859,358,0,5,30-45,Master,Chirie,Transport / Logistica,Rural,2,963
+9864,3835,1104,699,0,5,30-45,Master,Chirie,Productie / Inginerie,Rural,11,1232
+4403,3945,974,302,0,5,45+,Master,Chirie,Horeca / Turism,Rural,2,-3733
+9456,2100,871,621,2818,4,30-45,Liceu,Chirie,IT & Software,Rural,6,1052
+4895,2178,680,670,1545,3,30-45,Liceu,Chirie,Educatie,Rural,10,-1521
+8650,2112,833,509,0,4,30-45,Master,Chirie,Vanzari / Retail,Urban,6,2516
+4921,1080,504,779,700,2,45+,Facultate,Proprietar,Horeca / Turism,Rural,5,2066
+4846,1796,1062,240,0,4,45+,Liceu,Chirie,Vanzari / Retail,Rural,4,473
+7130,2335,1052,752,1998,5,30-45,Master,Chirie,Administratie Publica,Urban,6,-1555
+5872,944,886,431,2127,2,45+,Facultate,Proprietar,Educatie,Rural,6,1558
+10564,3915,994,468,0,5,45+,Facultate,Proprietar,Sanatate / Medical,Urban,2,5267
+10404,2924,632,675,1737,4,20-30,Master,Proprietar,Sanatate / Medical,Urban,10,4554
+6859,1350,569,1561,2019,2,30-45,Liceu,Chirie,Sanatate / Medical,Urban,8,-1313
+12962,2080,1003,579,0,5,45+,Master,Proprietar,Finante / Banci,Urban,2,9455
+4548,2412,741,394,0,4,45+,Facultate,Proprietar,Horeca / Turism,Urban,11,794
+7232,1305,974,767,1348,3,30-45,Liceu,Chirie,Marketing / Media / PR,Urban,4,834
+5439,2952,1043,226,0,4,20-30,Liceu,Proprietar,Administratie Publica,Urban,3,1284
+3300,1558,715,738,965,2,20-30,Liceu,Chirie,Servicii Diverse,Rural,5,-2119
+9670,1268,829,231,0,2,45+,Facultate,Proprietar,Constructii / Imobiliare,Urban,4,7453
+11968,1422,575,896,1626,2,45+,Master,Proprietar,Finante / Banci,Urban,8,7748
+7893,2836,820,301,968,4,45+,Master,Proprietar,Transport / Logistica,Rural,9,3232
+4357,2416,812,297,0,4,20-30,Liceu,Proprietar,Agricultura,Rural,7,852
+6376,886,547,1240,0,2,45+,Facultate,Chirie,Marketing / Media / PR,Rural,8,825
+7388,3535,809,560,924,5,30-45,Master,Chirie,Productie / Inginerie,Rural,6,-1062
+5540,2772,715,639,2797,4,20-30,Master,Chirie,Educatie,Rural,6,-3869
+12266,1612,692,346,2819,4,20-30,Master,Chirie,IT & Software,Rural,5,4248
+7899,1896,724,361,0,3,45+,Master,Chirie,Educatie,Urban,9,1973
+5334,1078,726,634,2489,2,20-30,Master,Chirie,Servicii Diverse,Urban,3,-1874
+7425,2676,941,515,0,4,30-45,Liceu,Proprietar,Vanzari / Retail,Urban,2,3397
+7731,1701,611,207,2537,3,30-45,Liceu,Chirie,Productie / Inginerie,Urban,4,173
+6624,1270,971,279,1782,2,20-30,Facultate,Proprietar,Educatie,Urban,7,2461
+7333,1432,735,570,0,2,20-30,Facultate,Proprietar,Productie / Inginerie,Rural,7,4404
+4207,2280,998,372,812,4,30-45,Facultate,Chirie,Horeca / Turism,Rural,5,-3235
+7177,1422,681,1079,0,3,30-45,Master,Proprietar,Transport / Logistica,Urban,12,3772
+8128,3625,969,530,0,5,45+,Master,Proprietar,Educatie,Rural,10,3154
+8819,874,658,672,0,2,30-45,Facultate,Proprietar,Sanatate / Medical,Rural,10,6373
+8383,3415,1138,242,2342,5,45+,Facultate,Chirie,Administratie Publica,Urban,10,-1696
+7868,886,758,916,1514,2,20-30,Master,Chirie,Administratie Publica,Rural,8,1547
+9260,2865,997,253,0,5,30-45,Master,Proprietar,Transport / Logistica,Urban,5,5182
+7698,2094,889,1782,0,3,30-45,Master,Proprietar,Sanatate / Medical,Rural,12,3034
+7395,3036,1024,739,882,4,45+,Master,Proprietar,Educatie,Urban,7,1847
+8639,2376,798,396,0,3,30-45,Facultate,Proprietar,Transport / Logistica,Urban,3,4927
+10289,1434,633,385,1178,3,45+,Facultate,Chirie,Sanatate / Medical,Urban,6,4007
+13632,2610,808,680,0,5,45+,Facultate,Proprietar,Finante / Banci,Urban,5,9818
+6780,3545,720,456,713,5,45+,Facultate,Proprietar,Constructii / Imobiliare,Rural,9,1538
+8037,1986,625,647,0,3,30-45,Master,Chirie,Administratie Publica,Urban,2,2413
+10549,1773,664,228,0,3,45+,Facultate,Proprietar,IT & Software,Urban,6,7927
+5421,1887,865,1632,0,3,30-45,Liceu,Chirie,Servicii Diverse,Urban,8,-1067
+5096,2088,814,668,0,4,30-45,Master,Chirie,Educatie,Rural,4,-749
+12415,1384,713,391,850,2,30-45,Master,Chirie,IT & Software,Urban,7,6608
+8048,3910,658,565,0,5,30-45,Master,Proprietar,Transport / Logistica,Urban,1,2861
+7236,2292,1016,379,2403,4,20-30,Master,Proprietar,Agricultura,Urban,1,1336
+6113,844,905,1811,0,2,45+,Liceu,Chirie,Marketing / Media / PR,Urban,8,645
+12095,2397,574,539,0,3,20-30,Master,Proprietar,Finante / Banci,Rural,11,8661
+12346,3325,786,284,0,5,30-45,Facultate,Proprietar,Finante / Banci,Rural,3,8091
+6965,2512,908,636,1182,4,20-30,Liceu,Proprietar,Productie / Inginerie,Rural,2,1881
+5687,2972,926,615,1988,4,45+,Facultate,Proprietar,Administratie Publica,Urban,7,-951
+10966,1788,1036,780,632,3,20-30,Liceu,Chirie,IT & Software,Rural,2,5076
+6573,2928,742,455,0,4,45+,Facultate,Chirie,Administratie Publica,Rural,3,778
+7431,2730,1005,1406,0,5,30-45,Facultate,Proprietar,Transport / Logistica,Urban,12,2065
+7017,2708,748,507,1145,4,45+,Liceu,Chirie,Constructii / Imobiliare,Rural,6,-1166
+6323,1239,734,767,0,3,20-30,Facultate,Chirie,Servicii Diverse,Urban,3,1390
+8494,3965,859,788,0,5,30-45,Master,Chirie,Educatie,Urban,7,508
+7600,1971,1016,256,1008,3,45+,Facultate,Chirie,Constructii / Imobiliare,Rural,11,1547
+3836,2000,925,764,0,4,30-45,Liceu,Chirie,Educatie,Rural,9,-2623
+10399,2157,918,545,0,3,45+,Master,Chirie,Productie / Inginerie,Urban,10,5004
+14508,1096,828,509,0,2,45+,Master,Chirie,IT & Software,Rural,7,9288
+7734,2520,824,1167,1807,5,20-30,Facultate,Chirie,Vanzari / Retail,Urban,8,-683
+6815,1052,572,850,0,2,20-30,Facultate,Proprietar,Educatie,Urban,8,4469
+4608,3195,905,515,0,5,20-30,Liceu,Proprietar,Horeca / Turism,Rural,3,-215
+8613,2176,853,681,1670,4,20-30,Master,Chirie,Finante / Banci,Rural,10,1527
+8559,1382,787,399,1984,2,30-45,Liceu,Proprietar,Finante / Banci,Rural,6,4002
+6223,1202,691,547,0,2,45+,Facultate,Proprietar,Sanatate / Medical,Rural,11,3630
+5364,1926,815,667,1110,3,20-30,Master,Chirie,Horeca / Turism,Rural,1,-1866
+8119,2636,1024,721,0,4,30-45,Master,Chirie,Administratie Publica,Rural,10,1063
+7701,1114,907,227,0,2,30-45,Facultate,Proprietar,Vanzari / Retail,Urban,11,5424
+9435,2307,867,1240,0,3,45+,Master,Chirie,Marketing / Media / PR,Urban,8,2161
+3335,3050,906,682,755,5,30-45,Liceu,Proprietar,Horeca / Turism,Rural,3,-2217
+5150,2688,775,759,1951,4,45+,Liceu,Proprietar,Transport / Logistica,Rural,7,-1053
+8440,3176,747,412,0,4,30-45,Facultate,Chirie,Productie / Inginerie,Urban,9,1680
+8292,2880,1138,349,0,5,20-30,Master,Proprietar,Transport / Logistica,Rural,10,3919
+3376,2515,1073,751,1610,5,45+,Liceu,Proprietar,Agricultura,Rural,5,-2595
+5060,1353,761,538,0,3,20-30,Liceu,Chirie,Educatie,Urban,11,-647
+12169,2820,796,1689,866,5,45+,Master,Proprietar,IT & Software,Urban,8,6285
+6626,1306,595,496,0,2,30-45,Master,Chirie,Horeca / Turism,Urban,3,2399
+7114,3195,789,397,0,5,30-45,Liceu,Proprietar,Productie / Inginerie,Rural,11,2599
+4508,2760,945,1076,0,4,20-30,Facultate,Chirie,Agricultura,Rural,12,-2793
+7343,2132,796,1398,0,4,20-30,Facultate,Chirie,Sanatate / Medical,Urban,8,1195
+5254,2223,610,676,0,3,45+,Master,Proprietar,Agricultura,Urban,6,1860
+6352,1872,844,356,2363,4,45+,Master,Chirie,Marketing / Media / PR,Rural,5,-1741
+13811,1340,860,570,819,2,20-30,Master,Chirie,Finante / Banci,Rural,11,8256
+7869,2525,1017,797,0,5,20-30,Master,Chirie,Transport / Logistica,Urban,6,1141
+4809,2145,936,673,1762,5,45+,Liceu,Chirie,Servicii Diverse,Rural,7,-2146
+5369,1720,1078,270,0,4,20-30,Liceu,Chirie,Vanzari / Retail,Urban,7,332
+4702,3745,1143,1388,0,5,30-45,Liceu,Proprietar,Educatie,Rural,8,-1692
+8575,3072,878,634,0,4,20-30,Facultate,Chirie,Transport / Logistica,Urban,1,1974
+9135,1228,814,962,0,2,20-30,Facultate,Proprietar,Constructii / Imobiliare,Urban,12,5934
+7944,1038,776,1694,0,2,20-30,Liceu,Chirie,Productie / Inginerie,Rural,12,1901
+6135,1539,761,507,0,3,20-30,Master,Proprietar,Horeca / Turism,Rural,5,3598
+11045,1486,695,1563,0,2,45+,Master,Proprietar,Productie / Inginerie,Urban,8,7153
+6339,1716,887,622,2206,4,20-30,Facultate,Proprietar,Vanzari / Retail,Urban,4,1150
+7401,894,774,395,0,2,20-30,Facultate,Proprietar,Educatie,Urban,6,5424
+8390,1710,705,215,0,3,20-30,Master,Chirie,Marketing / Media / PR,Urban,10,4210
+6159,2376,838,746,0,4,20-30,Master,Proprietar,Horeca / Turism,Urban,9,2166
+8183,2520,839,1443,687,5,20-30,Master,Proprietar,Administratie Publica,Rural,12,2620
+4709,2390,750,537,0,5,45+,Liceu,Proprietar,Agricultura,Urban,10,1315
+5187,2430,1025,1233,1073,5,30-45,Facultate,Proprietar,Horeca / Turism,Rural,12,-315
+7215,940,931,436,778,2,20-30,Liceu,Chirie,Constructii / Imobiliare,Urban,11,2030
+5998,2040,653,744,0,5,20-30,Master,Proprietar,Horeca / Turism,Rural,10,2273
+9610,2245,918,352,0,5,20-30,Master,Proprietar,IT & Software,Rural,9,6334
+6837,2620,1006,431,1728,5,20-30,Facultate,Proprietar,Vanzari / Retail,Rural,6,834
+9237,2140,976,209,0,5,30-45,Master,Chirie,Marketing / Media / PR,Urban,7,3533
+6505,2190,1000,487,2724,5,20-30,Facultate,Chirie,Marketing / Media / PR,Urban,4,-3010
+5727,2415,938,446,0,5,45+,Facultate,Chirie,Educatie,Urban,3,-705
+5719,2492,718,1125,2978,4,45+,Facultate,Chirie,Administratie Publica,Urban,12,-4207
+5757,2049,1031,1526,1260,3,30-45,Facultate,Proprietar,Servicii Diverse,Urban,8,190
+6184,956,694,1614,0,2,20-30,Facultate,Proprietar,Marketing / Media / PR,Urban,12,2989
+6460,1776,695,641,2338,4,30-45,Liceu,Proprietar,Sanatate / Medical,Urban,6,1278
+8969,1132,942,594,0,2,20-30,Facultate,Chirie,Transport / Logistica,Urban,6,4051
+4068,1611,704,474,0,3,45+,Liceu,Chirie,Servicii Diverse,Urban,7,-479
+10350,3076,920,707,2932,4,30-45,Facultate,Proprietar,Finante / Banci,Rural,2,2615
+8405,2500,771,640,0,4,20-30,Liceu,Proprietar,Constructii / Imobiliare,Urban,7,4501
+7903,3880,1005,702,0,5,30-45,Master,Proprietar,Administratie Publica,Urban,3,2349
+14194,1476,899,763,610,3,20-30,Facultate,Proprietar,Finante / Banci,Rural,10,10618
+4545,2355,974,510,0,5,45+,Liceu,Proprietar,Agricultura,Rural,2,563
+5684,3025,923,718,2213,5,30-45,Facultate,Chirie,Agricultura,Rural,10,-2702
+5681,2924,913,245,2806,4,20-30,Master,Chirie,Agricultura,Urban,11,-3985
+4209,2644,982,731,2785,4,20-30,Facultate,Chirie,Servicii Diverse,Rural,2,-5552
+4712,1236,797,307,0,3,30-45,Facultate,Proprietar,Horeca / Turism,Rural,11,2159
+9981,3235,828,687,0,5,30-45,Master,Proprietar,Sanatate / Medical,Urban,6,5394
+6232,910,846,368,1499,2,45+,Liceu,Chirie,Administratie Publica,Rural,2,1017
+5874,2208,771,605,619,3,20-30,Facultate,Proprietar,Educatie,Rural,7,1573
+7982,2355,910,1355,916,3,20-30,Master,Proprietar,Constructii / Imobiliare,Rural,12,2337
+9439,3635,810,597,2107,5,20-30,Facultate,Proprietar,Administratie Publica,Urban,5,2106
+6890,2976,668,1140,0,4,45+,Facultate,Chirie,Administratie Publica,Rural,12,254
+9139,1848,645,698,2701,3,30-45,Master,Proprietar,Administratie Publica,Urban,10,3124
+6615,1708,1043,567,0,4,20-30,Liceu,Proprietar,Transport / Logistica,Rural,3,3136
+5118,3250,735,1362,0,5,45+,Facultate,Proprietar,Horeca / Turism,Rural,8,-230
+14735,2285,943,1090,0,5,20-30,Facultate,Proprietar,IT & Software,Urban,8,10672
+3719,1248,780,469,0,3,30-45,Liceu,Chirie,Servicii Diverse,Rural,2,-1357
+4179,3575,721,411,0,5,45+,Liceu,Proprietar,Servicii Diverse,Urban,10,-245
+7357,2144,1087,2147,0,4,30-45,Master,Chirie,Administratie Publica,Rural,12,-603
+7897,2404,850,345,2865,4,20-30,Master,Chirie,Vanzari / Retail,Urban,3,-493
+13535,2596,767,795,510,4,30-45,Facultate,Chirie,Finante / Banci,Urban,9,7346
+8448,1524,803,474,0,3,45+,Master,Chirie,Marketing / Media / PR,Rural,7,3716
+7471,1270,508,327,0,2,45+,Liceu,Proprietar,Productie / Inginerie,Rural,1,5533
+10186,2205,734,456,0,3,45+,Facultate,Chirie,IT & Software,Urban,5,3800
+7697,1018,744,279,1043,2,30-45,Facultate,Chirie,IT & Software,Rural,11,2881
+8450,934,744,272,0,2,45+,Facultate,Chirie,Marketing / Media / PR,Urban,6,4622
+6165,2013,838,208,2999,3,20-30,Facultate,Proprietar,Sanatate / Medical,Rural,7,-25
+7544,2255,721,326,2914,5,30-45,Facultate,Chirie,Constructii / Imobiliare,Urban,10,-899
+13849,1414,807,491,609,2,30-45,Facultate,Chirie,Finante / Banci,Urban,11,8321
+7993,1194,557,446,2546,2,30-45,Master,Proprietar,Transport / Logistica,Urban,11,3022
+6114,3745,738,682,0,5,20-30,Liceu,Proprietar,Transport / Logistica,Rural,7,718
+13755,2464,959,611,837,4,20-30,Facultate,Chirie,IT & Software,Urban,7,6536
+7333,1701,750,800,0,3,30-45,Liceu,Chirie,Productie / Inginerie,Rural,2,1299
+5357,1426,811,256,1766,2,20-30,Liceu,Chirie,Agricultura,Urban,7,-1870
+9760,3200,1021,1135,0,4,20-30,Liceu,Chirie,Sanatate / Medical,Urban,8,2174
+3577,1528,999,790,0,2,30-45,Liceu,Proprietar,Servicii Diverse,Rural,9,426
+6466,3180,652,787,0,4,45+,Facultate,Proprietar,Transport / Logistica,Urban,3,2068
+10297,1964,1076,1302,0,4,20-30,Liceu,Chirie,IT & Software,Urban,8,3750
+12601,2976,1061,253,0,4,20-30,Master,Proprietar,Finante / Banci,Rural,10,8539
+13183,2532,604,577,0,4,30-45,Facultate,Proprietar,IT & Software,Urban,5,9747
+5100,3875,1111,759,0,5,30-45,Facultate,Proprietar,Servicii Diverse,Urban,10,-939
+8883,1576,836,1954,0,2,45+,Liceu,Proprietar,Finante / Banci,Urban,12,4427
+3970,2072,1059,732,2191,4,20-30,Liceu,Proprietar,Transport / Logistica,Rural,3,-2003
+9730,3450,681,645,0,5,45+,Master,Chirie,Constructii / Imobiliare,Urban,3,2824
+6537,1509,619,798,0,3,30-45,Facultate,Proprietar,Administratie Publica,Rural,5,3419
+5575,2228,837,471,0,4,30-45,Facultate,Proprietar,Educatie,Rural,2,1900
+4373,2292,677,564,2123,3,20-30,Master,Chirie,Servicii Diverse,Rural,6,-2877
+5333,1356,961,343,0,3,30-45,Liceu,Proprietar,Vanzari / Retail,Urban,9,2436
+5885,1400,632,276,0,2,30-45,Liceu,Chirie,Servicii Diverse,Urban,6,1827
+3707,2430,1123,787,2274,5,20-30,Liceu,Proprietar,Servicii Diverse,Urban,1,-2803
+6392,1629,778,352,641,3,20-30,Liceu,Proprietar,Constructii / Imobiliare,Rural,6,2943
+5231,1192,570,1333,0,2,45+,Facultate,Proprietar,Marketing / Media / PR,Rural,8,2392
+3909,3445,907,529,0,5,30-45,Liceu,Proprietar,Servicii Diverse,Rural,9,-1088
+13396,3960,949,438,0,5,30-45,Facultate,Chirie,IT & Software,Urban,1,5988
+6571,2084,903,525,1969,4,45+,Master,Chirie,Vanzari / Retail,Urban,7,-407
+9727,1676,646,257,1452,4,30-45,Master,Chirie,Productie / Inginerie,Urban,9,3468
+8163,1470,1020,531,0,3,45+,Facultate,Proprietar,Transport / Logistica,Urban,4,4993
+11415,1478,702,800,0,2,45+,Master,Chirie,Productie / Inginerie,Urban,6,6347
+6721,2142,952,565,1414,3,45+,Liceu,Proprietar,Educatie,Rural,6,1527
+12853,1588,994,1314,1245,2,20-30,Facultate,Chirie,Finante / Banci,Rural,12,5487
+7684,1126,585,290,0,2,20-30,Master,Proprietar,Marketing / Media / PR,Urban,6,5394
+4103,1194,724,629,0,2,30-45,Liceu,Chirie,Vanzari / Retail,Urban,5,-866
+6590,1311,959,234,0,3,30-45,Master,Chirie,Administratie Publica,Rural,10,1901
+7121,1146,804,694,0,2,30-45,Liceu,Chirie,Sanatate / Medical,Rural,3,1507
+8754,2268,833,753,1586,3,20-30,Facultate,Chirie,Productie / Inginerie,Urban,6,1242
+4129,2135,834,203,0,5,45+,Liceu,Proprietar,Horeca / Turism,Urban,9,958
+7006,1647,1050,283,0,3,20-30,Master,Chirie,Marketing / Media / PR,Rural,1,2002
+7576,2975,839,391,0,5,45+,Facultate,Chirie,Constructii / Imobiliare,Rural,9,1482
+7047,2226,726,754,2195,3,45+,Facultate,Proprietar,Constructii / Imobiliare,Urban,1,1078
+7650,2600,893,506,0,5,45+,Liceu,Proprietar,Transport / Logistica,Rural,11,3386
+8522,1494,614,243,0,3,30-45,Master,Chirie,Transport / Logistica,Urban,3,3417
+5356,1196,784,1671,0,2,30-45,Master,Proprietar,Horeca / Turism,Urban,12,1937
+9228,2094,938,302,932,3,30-45,Liceu,Chirie,Constructii / Imobiliare,Rural,3,3248
+7890,3210,669,376,0,5,30-45,Facultate,Proprietar,Transport / Logistica,Rural,11,3482
+8147,1611,1009,581,0,3,30-45,Master,Chirie,Productie / Inginerie,Rural,6,2844
+6665,3865,863,291,0,5,20-30,Facultate,Chirie,Vanzari / Retail,Urban,5,-170
+4574,1526,759,613,1055,2,45+,Facultate,Chirie,Agricultura,Rural,3,-2314
+4945,3800,751,480,0,5,20-30,Liceu,Chirie,Educatie,Urban,1,-2514
+7194,3210,950,1622,0,5,30-45,Liceu,Chirie,Marketing / Media / PR,Urban,8,-825
+5231,1545,896,411,1602,3,20-30,Liceu,Chirie,Vanzari / Retail,Rural,10,-1336
+11531,1542,679,512,0,3,20-30,Master,Proprietar,IT & Software,Urban,11,8883
+6903,2015,911,583,2799,5,30-45,Facultate,Chirie,Administratie Publica,Rural,5,-2132
+7398,2132,935,505,0,4,20-30,Master,Proprietar,Vanzari / Retail,Urban,6,4055
+3604,2205,804,502,0,3,45+,Liceu,Proprietar,Servicii Diverse,Urban,6,207
+15086,2229,733,1526,1196,3,30-45,Master,Chirie,Finante / Banci,Urban,12,6644
+5714,1335,663,563,1414,3,45+,Liceu,Chirie,Vanzari / Retail,Rural,5,-259
+3782,3200,677,797,2876,5,45+,Facultate,Proprietar,Servicii Diverse,Rural,5,-3996
+6338,2350,752,550,2176,5,45+,Liceu,Proprietar,Constructii / Imobiliare,Urban,5,678
+7382,1287,552,662,0,3,30-45,Facultate,Chirie,Educatie,Urban,6,3326
+4258,3030,869,688,0,5,20-30,Liceu,Chirie,Servicii Diverse,Rural,10,-1660
+4073,2238,552,454,1426,3,30-45,Master,Chirie,Horeca / Turism,Rural,9,-2783
+4816,1266,872,732,2942,2,20-30,Liceu,Proprietar,Educatie,Rural,2,-951
+12979,1227,666,429,0,3,30-45,Master,Proprietar,Finante / Banci,Urban,6,10379
+11158,1060,894,1885,699,2,30-45,Master,Chirie,Productie / Inginerie,Urban,12,4832
+6126,2645,892,1066,0,5,30-45,Liceu,Chirie,Marketing / Media / PR,Urban,8,-1035
+6390,908,754,403,0,2,30-45,Master,Chirie,Marketing / Media / PR,Rural,2,2522
+4150,3760,1127,692,0,5,20-30,Facultate,Proprietar,Horeca / Turism,Rural,1,-1727
+10347,3995,911,276,0,5,45+,Master,Chirie,IT & Software,Urban,11,2282
+6651,1752,960,520,2244,3,20-30,Facultate,Proprietar,Constructii / Imobiliare,Rural,2,993
+8310,1872,1039,474,0,3,45+,Liceu,Chirie,Sanatate / Medical,Urban,11,2611
+9684,2425,707,335,0,5,30-45,Facultate,Proprietar,Sanatate / Medical,Rural,7,6023
+9704,3750,1100,333,0,5,20-30,Master,Proprietar,Finante / Banci,Rural,10,4336
+12649,3168,980,790,0,4,30-45,Facultate,Chirie,Finante / Banci,Urban,11,4886
+8681,2217,896,1246,2786,3,45+,Master,Proprietar,Transport / Logistica,Urban,12,1291
+13639,1046,669,484,706,2,30-45,Master,Proprietar,IT & Software,Urban,3,10662
+8459,3465,879,290,0,5,20-30,Master,Proprietar,Transport / Logistica,Rural,2,3848
+10831,800,922,293,2974,2,30-45,Facultate,Chirie,Sanatate / Medical,Urban,7,3048
+8642,1264,669,773,0,2,30-45,Master,Proprietar,Transport / Logistica,Urban,6,6008
+5698,1162,924,498,2743,2,45+,Facultate,Chirie,Agricultura,Urban,4,-2086
+9021,3560,750,1015,0,5,45+,Liceu,Chirie,IT & Software,Rural,12,1155
+6145,1268,837,716,0,2,20-30,Facultate,Proprietar,Agricultura,Urban,11,3028
+8724,2322,967,937,2086,3,45+,Master,Proprietar,Transport / Logistica,Urban,8,2441
+6431,1872,670,622,2967,4,30-45,Facultate,Chirie,Transport / Logistica,Rural,7,-2243
+5414,2976,667,382,2563,4,20-30,Master,Chirie,Agricultura,Rural,4,-4065
+4686,2730,1099,632,552,5,45+,Liceu,Proprietar,Agricultura,Rural,10,-518
+10711,1638,899,456,0,3,45+,Facultate,Chirie,IT & Software,Urban,1,4806
+7298,1797,671,723,1678,3,30-45,Master,Proprietar,Horeca / Turism,Urban,2,2177
+9992,1434,944,653,1423,2,45+,Facultate,Proprietar,Finante / Banci,Rural,1,5614
+5305,1485,1042,1629,0,3,30-45,Master,Chirie,Servicii Diverse,Urban,8,-1382
+10030,2552,963,358,0,4,20-30,Facultate,Chirie,Finante / Banci,Rural,10,3749
+4298,3048,762,738,0,4,45+,Master,Proprietar,Servicii Diverse,Rural,9,-17
+8807,2565,1102,418,0,5,45+,Master,Proprietar,Sanatate / Medical,Urban,9,4791
+5317,2912,914,449,663,4,20-30,Liceu,Chirie,Vanzari / Retail,Rural,11,-1688
+3300,2656,1020,1609,0,4,45+,Liceu,Proprietar,Servicii Diverse,Rural,12,-1787
+13392,1346,503,267,1363,2,45+,Facultate,Proprietar,IT & Software,Urban,2,9831
+7124,3755,728,1194,0,5,45+,Facultate,Chirie,Marketing / Media / PR,Urban,12,-457
+11347,2520,922,614,0,4,45+,Liceu,Chirie,IT & Software,Rural,4,5855
+5529,1314,554,496,1734,2,45+,Liceu,Chirie,Marketing / Media / PR,Urban,10,-258
+3940,3365,762,339,2101,5,45+,Facultate,Proprietar,Servicii Diverse,Rural,1,-2625
+4089,1206,843,603,2700,3,20-30,Liceu,Proprietar,Marketing / Media / PR,Rural,9,-1476
+4035,1539,865,458,0,3,30-45,Liceu,Chirie,Vanzari / Retail,Rural,11,-418
+9830,1002,871,794,0,2,30-45,Master,Chirie,IT & Software,Rural,11,4763
+7442,1296,730,536,1752,2,30-45,Master,Chirie,Marketing / Media / PR,Urban,10,288
+8290,1026,864,646,0,2,30-45,Master,Proprietar,Productie / Inginerie,Rural,3,5591
+7248,2728,655,1540,0,4,30-45,Master,Proprietar,Marketing / Media / PR,Rural,8,2312
+5846,1318,823,231,2883,2,45+,Master,Proprietar,Educatie,Urban,11,705
+5608,2935,850,428,2915,5,45+,Master,Chirie,Servicii Diverse,Urban,5,-3778
+10493,1500,584,726,0,2,30-45,Master,Proprietar,Constructii / Imobiliare,Urban,9,7546
+7971,1296,685,578,0,3,30-45,Master,Proprietar,Educatie,Urban,1,5323
+5838,1520,995,733,1620,2,30-45,Facultate,Proprietar,Transport / Logistica,Rural,1,939
+12083,1756,864,457,0,4,45+,Master,Proprietar,Productie / Inginerie,Urban,7,9234
+10493,1250,584,435,815,2,30-45,Facultate,Proprietar,Finante / Banci,Rural,10,7396
+4443,1224,915,538,0,2,30-45,Liceu,Chirie,Horeca / Turism,Urban,10,-926
+8372,1406,582,337,0,2,20-30,Liceu,Proprietar,Constructii / Imobiliare,Urban,4,6333
+7608,3630,659,490,0,5,20-30,Liceu,Proprietar,Educatie,Urban,9,2988
+8430,2157,887,723,0,3,20-30,Facultate,Chirie,Productie / Inginerie,Rural,7,1730
+7511,1509,817,716,0,3,30-45,Master,Chirie,Constructii / Imobiliare,Urban,7,1527
+8375,1200,1009,1675,0,3,20-30,Facultate,Chirie,Educatie,Urban,8,3145
+9338,1060,744,438,0,2,30-45,Liceu,Proprietar,Finante / Banci,Rural,10,7352
+14947,920,766,1091,1341,2,45+,Facultate,Chirie,Finante / Banci,Urban,12,8801
+7320,2696,816,778,1997,4,45+,Liceu,Proprietar,Administratie Publica,Urban,10,1015
+6790,3430,934,695,0,5,45+,Facultate,Proprietar,Marketing / Media / PR,Urban,9,2022
+8432,2274,1036,365,0,3,45+,Master,Chirie,Administratie Publica,Rural,2,2326
+4673,948,741,645,0,2,30-45,Facultate,Chirie,Servicii Diverse,Urban,11,228
+7064,3184,1019,379,0,4,30-45,Liceu,Proprietar,Administratie Publica,Urban,10,2192
+4694,2235,568,568,1479,3,20-30,Master,Chirie,Horeca / Turism,Rural,10,-1795
+8520,3325,657,270,869,5,45+,Facultate,Proprietar,Sanatate / Medical,Rural,7,3390
+5862,1818,844,204,0,3,30-45,Master,Proprietar,Agricultura,Rural,4,3112
+8368,2776,728,653,2044,4,30-45,Liceu,Proprietar,Transport / Logistica,Urban,2,2362
+4474,918,632,1160,1402,2,45+,Liceu,Proprietar,Servicii Diverse,Rural,8,297
+4378,1054,647,295,2134,2,45+,Facultate,Proprietar,Servicii Diverse,Rural,9,298
+10451,1479,1034,394,2543,3,30-45,Master,Proprietar,Sanatate / Medical,Urban,6,4905
+6022,2148,732,359,0,3,20-30,Master,Proprietar,Horeca / Turism,Urban,4,2563
+7791,2805,902,788,0,5,45+,Master,Chirie,Marketing / Media / PR,Rural,1,1645
+7866,2080,907,555,2112,5,20-30,Facultate,Chirie,Vanzari / Retail,Urban,9,523
+8417,1394,551,533,1981,2,45+,Master,Proprietar,Sanatate / Medical,Rural,1,3923
+6374,2620,817,1344,0,4,30-45,Master,Chirie,Educatie,Rural,8,-741
+8739,2484,1038,1290,1097,4,20-30,Liceu,Chirie,Constructii / Imobiliare,Urban,12,1208
+5493,2212,728,775,0,4,30-45,Liceu,Proprietar,Servicii Diverse,Urban,3,1885
+9236,3905,821,466,0,5,20-30,Master,Chirie,Sanatate / Medical,Urban,5,1667
+5780,2004,895,789,0,4,30-45,Facultate,Chirie,Servicii Diverse,Rural,2,73
+8192,1896,1044,371,0,4,20-30,Master,Proprietar,Administratie Publica,Rural,7,5166
+11183,3052,736,604,0,4,30-45,Liceu,Chirie,Finante / Banci,Urban,4,4781
+10200,2349,590,415,0,3,20-30,Facultate,Chirie,Constructii / Imobiliare,Urban,3,4933
+7800,1432,579,286,0,2,30-45,Facultate,Chirie,Sanatate / Medical,Urban,9,3487
+3417,1251,889,565,0,3,20-30,Facultate,Chirie,Agricultura,Rural,9,-1491
+8143,1899,873,777,2281,3,45+,Master,Chirie,Vanzari / Retail,Rural,9,-251
+6142,2132,679,1020,500,4,20-30,Facultate,Chirie,Vanzari / Retail,Rural,8,84
+7162,1410,618,207,0,2,30-45,Facultate,Proprietar,Vanzari / Retail,Urban,5,4820
+11356,2670,690,632,1481,5,20-30,Master,Proprietar,Finante / Banci,Rural,3,5861
+5652,1368,876,666,0,3,20-30,Master,Proprietar,Vanzari / Retail,Rural,2,2945
+5061,904,644,475,1012,2,20-30,Facultate,Chirie,Horeca / Turism,Urban,9,-663
+5221,2236,1002,710,0,4,30-45,Liceu,Chirie,Horeca / Turism,Urban,4,-1922
+7686,984,598,456,0,2,30-45,Liceu,Chirie,Administratie Publica,Urban,7,3853
+12141,1284,699,1977,0,2,20-30,Facultate,Chirie,Finante / Banci,Urban,8,5136
+5813,2336,1054,253,0,4,30-45,Master,Proprietar,Agricultura,Urban,11,2111
+7537,1048,504,243,2880,2,20-30,Facultate,Chirie,Marketing / Media / PR,Rural,5,247
+4867,2328,930,357,0,4,30-45,Liceu,Chirie,Administratie Publica,Urban,2,-306
+4847,1166,870,337,0,2,45+,Facultate,Proprietar,Horeca / Turism,Rural,4,2670
+5526,1734,715,679,1627,3,20-30,Facultate,Proprietar,Agricultura,Rural,10,1038
+5860,3188,926,718,2052,4,30-45,Liceu,Proprietar,Educatie,Urban,5,-1135
+13381,994,768,1993,0,2,30-45,Master,Chirie,IT & Software,Rural,12,6860
+6189,932,591,232,0,2,20-30,Facultate,Chirie,Administratie Publica,Rural,9,1836
+6201,2052,910,272,0,4,45+,Liceu,Proprietar,Sanatate / Medical,Rural,10,3170
+10712,2145,1071,1513,666,5,45+,Facultate,Proprietar,Sanatate / Medical,Urban,12,5089
+6966,1491,648,1910,1518,3,20-30,Liceu,Chirie,Vanzari / Retail,Urban,12,-1498
+8316,2960,818,306,0,4,45+,Master,Chirie,Transport / Logistica,Rural,10,1717
+7666,3164,924,640,1824,4,30-45,Facultate,Proprietar,Transport / Logistica,Urban,6,1060
+10327,2516,1091,1106,0,4,45+,Master,Proprietar,Productie / Inginerie,Urban,12,5330
+4833,2385,970,482,2767,3,30-45,Liceu,Chirie,Transport / Logistica,Rural,4,-4126
+7151,1761,1005,796,0,3,30-45,Liceu,Chirie,Productie / Inginerie,Urban,6,1572
+8684,2596,1022,790,890,4,45+,Master,Chirie,Sanatate / Medical,Rural,2,578
+13190,1844,1045,432,0,4,20-30,Master,Chirie,IT & Software,Rural,6,7162
+13753,2271,663,356,706,3,45+,Facultate,Proprietar,IT & Software,Urban,10,9859
+8147,2860,692,687,2840,5,30-45,Master,Chirie,Constructii / Imobiliare,Urban,5,-271
+12791,2058,651,699,2119,3,45+,Facultate,Proprietar,Finante / Banci,Urban,7,7549
+6324,3750,1123,789,0,5,20-30,Master,Chirie,Horeca / Turism,Urban,5,-2090
+9934,1158,815,652,0,2,30-45,Facultate,Chirie,Finante / Banci,Rural,6,5657
+4223,1048,985,351,0,2,45+,Master,Chirie,Horeca / Turism,Rural,2,-551
+5753,2001,934,464,0,3,30-45,Facultate,Chirie,Vanzari / Retail,Rural,4,-577
+6046,974,530,490,1322,2,45+,Master,Proprietar,Agricultura,Urban,11,2707
+10658,1636,749,595,0,4,30-45,Facultate,Chirie,IT & Software,Urban,11,4938
+9493,3820,661,240,1513,5,20-30,Facultate,Chirie,Administratie Publica,Urban,9,1176
+10315,2216,720,713,0,4,30-45,Facultate,Chirie,Constructii / Imobiliare,Urban,11,3848
+7781,3865,845,733,0,5,20-30,Liceu,Chirie,Finante / Banci,Rural,6,632
+5982,1410,847,754,0,3,30-45,Facultate,Proprietar,Educatie,Rural,9,2987
+6300,1302,835,745,0,3,20-30,Master,Proprietar,Agricultura,Urban,11,3443
+8618,3112,740,355,0,4,30-45,Master,Proprietar,Educatie,Urban,7,4245
+3841,1320,902,688,1049,3,45+,Liceu,Chirie,Educatie,Rural,4,-2676
+4563,2415,748,964,0,5,30-45,Master,Chirie,Agricultura,Rural,8,-1494
+7006,3760,816,668,0,5,20-30,Master,Chirie,Horeca / Turism,Urban,3,-825
+8579,1262,733,243,1506,2,30-45,Master,Proprietar,Productie / Inginerie,Rural,10,5085
+12162,1250,703,511,0,2,45+,Master,Proprietar,Finante / Banci,Urban,11,9568
+12771,2285,742,799,0,5,30-45,Facultate,Chirie,Finante / Banci,Urban,11,6763
+7346,1584,715,367,0,3,30-45,Facultate,Chirie,Administratie Publica,Urban,10,3107
+7978,1782,572,374,1872,3,45+,Facultate,Proprietar,Marketing / Media / PR,Urban,9,3231
+6418,2880,692,320,0,4,30-45,Liceu,Chirie,Educatie,Urban,5,978
+10050,3505,987,687,0,5,45+,Facultate,Proprietar,IT & Software,Rural,1,5023
+7957,1425,578,557,0,3,45+,Master,Chirie,Sanatate / Medical,Urban,5,4122
+6690,3720,795,786,0,5,20-30,Facultate,Chirie,Productie / Inginerie,Rural,2,-751
+6330,3090,1081,763,0,5,30-45,Liceu,Proprietar,Administratie Publica,Urban,6,1578
+5109,1287,605,785,0,3,45+,Liceu,Proprietar,Educatie,Rural,7,2627
+6152,2776,919,562,1031,4,45+,Master,Proprietar,Agricultura,Rural,6,1140
+7981,1200,610,224,2404,3,20-30,Master,Proprietar,Constructii / Imobiliare,Rural,10,3363
+4795,2904,708,211,1324,4,20-30,Liceu,Proprietar,Agricultura,Rural,6,-364
+3300,3004,770,549,2122,4,45+,Liceu,Proprietar,Vanzari / Retail,Rural,9,-2863
+7588,3650,719,693,1136,5,30-45,Liceu,Chirie,Productie / Inginerie,Urban,6,-804
+7671,1636,706,791,0,4,45+,Facultate,Chirie,Administratie Publica,Rural,5,2755
+6578,1797,645,319,1762,3,45+,Liceu,Proprietar,Vanzari / Retail,Rural,9,2077
+4022,1893,974,1230,0,3,20-30,Liceu,Proprietar,Agricultura,Rural,8,-196
+10324,956,597,1993,2480,2,20-30,Facultate,Chirie,Sanatate / Medical,Urban,8,1743
+5140,2310,568,670,2087,3,45+,Facultate,Chirie,Servicii Diverse,Urban,11,-3246
+12986,1584,837,1042,0,2,30-45,Facultate,Chirie,IT & Software,Urban,8,6629
+7680,1840,739,352,0,4,30-45,Liceu,Proprietar,Administratie Publica,Urban,9,4566
+11269,3040,1011,490,0,4,45+,Master,Chirie,IT & Software,Urban,6,4650
+7811,850,554,592,0,2,20-30,Master,Proprietar,Vanzari / Retail,Rural,3,5951
+9328,2358,941,676,0,3,30-45,Liceu,Proprietar,Finante / Banci,Rural,6,5148
+5927,2590,1135,429,1088,5,30-45,Master,Chirie,Servicii Diverse,Rural,5,-1271
+10660,914,679,1662,0,2,30-45,Liceu,Proprietar,Finante / Banci,Rural,8,7461
+10611,1464,536,1554,0,2,30-45,Master,Chirie,Productie / Inginerie,Urban,12,4471
+6395,1012,916,641,2283,2,30-45,Master,Chirie,Horeca / Turism,Urban,7,-400
+3968,3515,955,1507,0,5,45+,Liceu,Chirie,Agricultura,Urban,12,-4540
+7153,3650,988,262,0,5,45+,Facultate,Chirie,Vanzari / Retail,Urban,10,763
+7176,2745,849,791,0,5,45+,Master,Chirie,Servicii Diverse,Urban,3,894
+6902,1426,761,613,0,2,45+,Master,Proprietar,Vanzari / Retail,Rural,6,3865
+8212,2176,1043,231,0,4,45+,Master,Chirie,Administratie Publica,Urban,9,1927
+5982,1413,646,768,0,3,30-45,Facultate,Proprietar,Marketing / Media / PR,Rural,7,3282
+6866,1298,836,647,0,2,20-30,Facultate,Chirie,Educatie,Urban,2,2429
+10104,2980,831,431,0,5,30-45,Master,Chirie,Constructii / Imobiliare,Rural,9,2831
+6592,2760,847,577,963,4,30-45,Facultate,Proprietar,Productie / Inginerie,Urban,9,1638
+5643,1424,545,451,2435,2,30-45,Liceu,Proprietar,Agricultura,Urban,9,567
+7849,1324,963,680,2850,2,30-45,Master,Chirie,Marketing / Media / PR,Rural,9,-15
+7141,1724,922,1776,1192,4,20-30,Facultate,Chirie,Administratie Publica,Rural,12,-80
+7070,1317,985,484,0,3,30-45,Master,Proprietar,Servicii Diverse,Urban,2,4271
+7386,1467,683,441,0,3,45+,Facultate,Chirie,Vanzari / Retail,Urban,3,1948
+6827,3125,1021,371,1363,5,30-45,Liceu,Chirie,Administratie Publica,Urban,7,-1504
+7867,3215,1032,1484,2055,5,20-30,Facultate,Chirie,Marketing / Media / PR,Urban,8,-2765
+10643,2805,1142,742,0,5,20-30,Facultate,Proprietar,Constructii / Imobiliare,Urban,5,6198
+5224,2940,899,600,2388,4,30-45,Facultate,Proprietar,Marketing / Media / PR,Rural,5,-1656
+6283,2040,555,1559,0,3,45+,Master,Proprietar,Agricultura,Urban,12,2250
+8821,1668,612,294,732,4,30-45,Master,Proprietar,Sanatate / Medical,Urban,4,5437
+11227,2373,1010,779,0,3,20-30,Master,Chirie,Productie / Inginerie,Urban,10,4029
+6965,2964,994,1294,0,4,45+,Facultate,Chirie,Vanzari / Retail,Rural,8,-591
+9672,1953,1025,405,0,3,30-45,Facultate,Chirie,Finante / Banci,Rural,5,4627
+9238,1064,552,235,0,2,45+,Liceu,Chirie,Sanatate / Medical,Rural,11,4673
+4454,1480,699,472,1120,2,20-30,Facultate,Proprietar,Servicii Diverse,Urban,11,720
+13711,2575,651,593,0,5,30-45,Master,Proprietar,Finante / Banci,Urban,7,10172
+6890,1148,541,670,1687,2,30-45,Facultate,Proprietar,Transport / Logistica,Rural,1,2751
+7315,2888,952,567,0,4,45+,Master,Proprietar,Educatie,Urban,4,3056
+5503,1797,582,753,0,3,20-30,Liceu,Chirie,Agricultura,Urban,1,-62
+9128,1016,913,1704,0,2,30-45,Liceu,Chirie,IT & Software,Rural,12,2747
+6681,3795,982,333,0,5,45+,Liceu,Proprietar,Sanatate / Medical,Urban,1,1322
+4485,1408,909,425,0,2,45+,Liceu,Chirie,Vanzari / Retail,Rural,2,-584
+5317,1527,941,246,0,3,20-30,Master,Proprietar,Servicii Diverse,Rural,11,2646
+7441,2496,724,795,0,4,30-45,Liceu,Chirie,Sanatate / Medical,Rural,3,1807
+4234,890,861,490,2204,2,20-30,Liceu,Proprietar,Servicii Diverse,Urban,1,-24
+5187,2610,1130,378,3000,5,45+,Liceu,Chirie,Agricultura,Urban,5,-3624
+6584,1040,598,320,0,2,30-45,Facultate,Proprietar,Agricultura,Urban,7,4696
+6132,1281,649,315,1111,3,45+,Master,Proprietar,Servicii Diverse,Urban,11,2961
+7525,2488,728,542,0,4,20-30,Liceu,Chirie,Constructii / Imobiliare,Urban,11,1807
+6623,1040,869,655,2927,2,30-45,Liceu,Chirie,Transport / Logistica,Urban,9,-906
+4401,1563,927,622,0,3,20-30,Master,Chirie,Horeca / Turism,Rural,6,-887
+10359,1473,748,582,0,3,30-45,Master,Chirie,Constructii / Imobiliare,Rural,3,4480
+6751,1086,569,313,0,2,30-45,Facultate,Chirie,Marketing / Media / PR,Rural,3,2302
+6667,2049,987,435,0,3,45+,Facultate,Proprietar,Servicii Diverse,Urban,3,3430
+6525,2835,872,793,1410,5,30-45,Liceu,Proprietar,Constructii / Imobiliare,Rural,1,467
+8418,1202,745,1263,0,2,20-30,Liceu,Chirie,Productie / Inginerie,Rural,8,3809
+3479,2924,646,216,2465,4,20-30,Liceu,Chirie,Servicii Diverse,Rural,6,-5031
+5057,2945,970,675,505,5,30-45,Facultate,Proprietar,Agricultura,Urban,3,-266
+14933,2024,1003,282,1875,4,30-45,Master,Chirie,Finante / Banci,Rural,7,8364
+6215,2935,739,772,774,5,30-45,Facultate,Chirie,Marketing / Media / PR,Urban,6,-2048
+6379,1740,1009,1488,0,3,45+,Facultate,Chirie,Educatie,Urban,8,295
+7678,1344,847,745,0,2,45+,Facultate,Proprietar,Administratie Publica,Rural,9,4818
+6600,982,647,278,0,2,30-45,Master,Chirie,Servicii Diverse,Urban,2,2442
+3700,1226,996,754,0,2,20-30,Liceu,Chirie,Agricultura,Rural,9,-1356
+10079,1460,671,621,0,2,20-30,Master,Proprietar,Constructii / Imobiliare,Urban,2,7361
